@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using book_shelter_store.Models;
+using BookShelterStore.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace book_shelter_store.Controllers
+namespace BookShelterStore.Controllers
 {
     public class HomeController : Controller
     {
